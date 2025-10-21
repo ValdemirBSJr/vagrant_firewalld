@@ -220,6 +220,6 @@ sudo firewall-cmd --query-panic
 
 * **Valdemir Bezerra de Souza Júnior**
 * Analista Infraestrutura | Devops | SRE | Cloud | Oracle Cloud | Linux | Docker | Kubernets | Python | Go | Rust | Lua | N8N | No Code
-* [Link para o Artigo Original]([https://www.linkedin.com/pulse/para-al%C3%A9m-do-iptables-um-guia-pr%C3%A1tico-de-seguran%C3%A7a-1-valdemir-jhudf/?trackingId=PYbnZYC4Q8yfZIA5wpxmdA%3D%3D](https://www.linkedin.com/pulse/para-al%25C3%25A9m-do-iptables-um-guia-pr%25C3%25A1tico-de-seguran%25C3%25A7a-2-valdemir-lfrgf/))
+* [Link para o Artigo Original](https://www.linkedin.com/pulse/para-al%C3%A9m-do-iptables-um-guia-pr%C3%A1tico-de-seguran%C3%A7a-1-valdemir-jhudf/?trackingId=PYbnZYC4Q8yfZIA5wpxmdA%3D%3D)
 
 
