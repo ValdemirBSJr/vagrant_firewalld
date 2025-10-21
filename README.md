@@ -199,7 +199,7 @@ sudo firewall-cmd --permanent --add-rich-rule='rule family="ipv4" source address
 sudo firewall-cmd --permanent --add-rich-rule='rule family="ipv4" source address="123.123.123.123" drop'
   ```
 
-##🚨 Modo Pânico (O "Kill Switch")
+## 🚨 Modo Pânico (O "Kill Switch")
 
 Se você suspeitar de uma intrusão, este comando bloqueia TODO o tráfego de rede (exceto localhost), derrubando conexões existentes.
  
